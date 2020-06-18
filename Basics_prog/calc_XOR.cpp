@@ -21,4 +21,3 @@ int main()
     cout<<computeXOR(n);
     return 0;
 }
-
